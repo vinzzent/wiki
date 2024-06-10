@@ -1,0 +1,43 @@
+* {    
+    font-family: sans-serif, arial;
+   }
+
+body {
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+.main {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.sidebar {
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-left: 30px;
+    background-color:aquamarine;
+    height: 100vh;
+}
+
+form{
+    width:90%;
+}
+
+form > input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-width: 100px;
+}
+
+.errorlist{
+    color:crimson;
+    background-color: lightpink;
+}
